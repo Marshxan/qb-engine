@@ -13,3 +13,8 @@ RegisterCommand('engine', function()
 end)
 
 RegisterKeyMapping('engine', 'Toggle Engine', 'MOUSE_WHEEL', 'IOM_WHEEL_UP')
+
+
+-- RegisterKeyMapping('engine', 'Toggle Engine', 'keyboard', 'F6') 
+-- If you want it as something else
+-- https://docs.fivem.net/docs/game-references/controls/
